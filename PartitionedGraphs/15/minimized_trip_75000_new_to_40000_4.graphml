@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="trips" attr.type="long" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="3774751842" />
+    <node id="3774751843" />
+    <node id="3774751840+3774751841" />
+    <node id="3800084597+3774751838" />
+    <node id="672613428+672613431+672613427" />
+    <node id="3774751844+3774751839+3774751845" />
+    <node id="3774751835+3774751836" />
+    <node id="672613425+129616108+4444345299" />
+    <node id="129616107" />
+    <edge source="3774751842" target="3774751843">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="3774751843" target="3774751840+3774751841">
+      <data key="d0">62</data>
+    </edge>
+    <edge source="3774751843" target="3774751844+3774751839+3774751845">
+      <data key="d0">63</data>
+    </edge>
+    <edge source="3774751840+3774751841" target="3800084597+3774751838">
+      <data key="d0">61</data>
+    </edge>
+    <edge source="3800084597+3774751838" target="672613428+672613431+672613427">
+      <data key="d0">53</data>
+    </edge>
+    <edge source="672613428+672613431+672613427" target="672613425+129616108+4444345299">
+      <data key="d0">889</data>
+    </edge>
+    <edge source="3774751844+3774751839+3774751845" target="3774751835+3774751836">
+      <data key="d0">1077</data>
+    </edge>
+    <edge source="672613425+129616108+4444345299" target="129616107">
+      <data key="d0">2569</data>
+    </edge>
+  </graph>
+</graphml>

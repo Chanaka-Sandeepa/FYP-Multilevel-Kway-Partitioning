@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="trips" attr.type="long" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="672777639+672777638" />
+    <node id="672777601+672777597" />
+    <node id="672777610" />
+    <node id="5028030264" />
+    <node id="5028030262" />
+    <node id="5404119354+5028030263+5404119350" />
+    <node id="5404119348" />
+    <node id="5404119349" />
+    <node id="5404119346+5028030261+5404119345" />
+    <node id="5404119344" />
+    <node id="5028030257" />
+    <edge source="672777639+672777638" target="672777601+672777597">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="672777601+672777597" target="672777610">
+      <data key="d0">41</data>
+    </edge>
+    <edge source="672777601+672777597" target="5028030264">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="672777610" target="5404119354+5028030263+5404119350">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="5028030264" target="5028030262">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="5028030264" target="5404119354+5028030263+5404119350">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="5028030262" target="5404119346+5028030261+5404119345">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="5404119354+5028030263+5404119350" target="5404119348">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="5404119354+5028030263+5404119350" target="5404119349">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="5404119354+5028030263+5404119350" target="5404119346+5028030261+5404119345">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="5404119348" target="5404119349">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="5404119346+5028030261+5404119345" target="5404119344">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="5404119346+5028030261+5404119345" target="5028030257">
+      <data key="d0">49</data>
+    </edge>
+  </graph>
+</graphml>

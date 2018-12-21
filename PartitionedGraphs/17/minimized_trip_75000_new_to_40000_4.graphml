@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="trips" attr.type="long" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="3774706070" />
+    <node id="3774706069+667237449" />
+    <node id="667237450" />
+    <node id="3774706071" />
+    <node id="667237451+667237440" />
+    <edge source="3774706070" target="3774706069+667237449">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="3774706069+667237449" target="667237450">
+      <data key="d0">1300</data>
+    </edge>
+    <edge source="3774706069+667237449" target="3774706071">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="667237450" target="667237451+667237440">
+      <data key="d0">104</data>
+    </edge>
+  </graph>
+</graphml>

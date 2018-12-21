@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="trips" attr.type="long" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="667761535" />
+    <node id="667761533+667761534" />
+    <node id="4084778004+4084775828" />
+    <node id="667761537" />
+    <node id="667761530+667761529+2049675489" />
+    <node id="667761541" />
+    <node id="4084775833+4084775835" />
+    <node id="667761519+667761518+667761538+667761540" />
+    <node id="667761552" />
+    <node id="4595801051" />
+    <node id="5278579099" />
+    <node id="4082617457+268931252+621835717" />
+    <node id="4061975260+268931253+3800069143" />
+    <edge source="667761535" target="667761533+667761534">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="667761533+667761534" target="4084778004+4084775828">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="667761533+667761534" target="667761530+667761529+2049675489">
+      <data key="d0">37</data>
+    </edge>
+    <edge source="4084778004+4084775828" target="667761537">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="667761530+667761529+2049675489" target="667761541">
+      <data key="d0">1240</data>
+    </edge>
+    <edge source="667761530+667761529+2049675489" target="4084775833+4084775835">
+      <data key="d0">1222</data>
+    </edge>
+    <edge source="667761541" target="667761552">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="667761541" target="4595801051">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="4084775833+4084775835" target="667761519+667761518+667761538+667761540">
+      <data key="d0">1216</data>
+    </edge>
+    <edge source="4595801051" target="5278579099">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="4595801051" target="4082617457+268931252+621835717">
+      <data key="d0">1251</data>
+    </edge>
+    <edge source="4082617457+268931252+621835717" target="4061975260+268931253+3800069143">
+      <data key="d0">417</data>
+    </edge>
+  </graph>
+</graphml>

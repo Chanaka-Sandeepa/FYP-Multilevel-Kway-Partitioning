@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="551c313c-5608-4766-8933-652f2eea1cd7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/libspatialindex/test/gtest/gtest-1.7.0/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libspatialindex/test/gtest/gtest-1.7.0/CTestTestfile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/MANIFEST.in" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/MANIFEST.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/NOTICE" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/NOTICE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/appveyor.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/doc/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/doc/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/doc/make.bat" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/doc/make.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/doc/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/doc/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/doc/source/_templates/enum.rst" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/doc/source/_templates/enum.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/doc/source/bibliography.rst" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/doc/source/bibliography.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/doc/source/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/doc/source/conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/doc/source/download.rst" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/doc/source/download.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/doc/source/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/doc/source/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/doc/source/install.rst" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/doc/source/install.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/doc/source/overview.rst" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/doc/source/overview.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/doc/source/reference/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/doc/source/reference/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/doc/source/reference/legal.rst" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/doc/source/reference/legal.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/doc/source/reference/nxmetis.rst" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/doc/source/reference/nxmetis.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/nxmetis/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/nxmetis/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/nxmetis/_api.pxd" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/nxmetis/_api.pxd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/nxmetis/_metis.pyx" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/nxmetis/_metis.pyx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/nxmetis/enums.py" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/nxmetis/enums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/nxmetis/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/nxmetis/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/nxmetis/metis.py" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/nxmetis/metis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/nxmetis/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/nxmetis/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/nxmetis/tests/test_metis.py" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/nxmetis/tests/test_metis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/nxmetis/types.py" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/nxmetis/types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/setup.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/setup.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/GKlib.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/GKlib.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/b64.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/b64.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/blas.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/blas.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/csr.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/csr.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/error.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/error.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/evaluate.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/evaluate.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/fkvkselect.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/fkvkselect.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/fs.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/fs.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_arch.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_arch.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_defs.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_defs.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_externs.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_externs.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_macros.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_macros.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_mkblas.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_mkblas.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_mkmemory.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_mkmemory.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_mkpqueue.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_mkpqueue.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_mkpqueue2.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_mkpqueue2.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_mkrandom.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_mkrandom.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_mkutils.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_mkutils.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_proto.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_proto.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_struct.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_struct.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_types.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/gk_types.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/graph.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/graph.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/htable.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/htable.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/io.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/io.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/itemsets.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/itemsets.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/mcore.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/mcore.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/memory.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/memory.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/ms_inttypes.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/ms_inttypes.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/ms_stat.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/ms_stat.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/ms_stdint.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/ms_stdint.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/omp.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/omp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/pdb.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/pdb.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/pqueue.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/pqueue.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/random.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/random.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/rw.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/rw.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/seq.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/seq.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/sort.cc" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/sort.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/string.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/string.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/timers.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/timers.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/tokenizer.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/tokenizer.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/GKlib/util.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/GKlib/util.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/auxapi.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/auxapi.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/balance.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/balance.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/bucketsort.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/bucketsort.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/checkgraph.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/checkgraph.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/coarsen.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/coarsen.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/compress.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/compress.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/contig.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/contig.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/debug.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/debug.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/defs.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/defs.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/fm.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/fm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/fortran.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/fortran.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/frename.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/frename.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/gklib.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/gklib.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/gklib_defs.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/gklib_defs.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/gklib_rename.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/gklib_rename.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/gklib_sort.cc" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/gklib_sort.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/graph.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/graph.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/initpart.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/initpart.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/kmetis.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/kmetis.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/kwayfm.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/kwayfm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/kwayrefine.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/kwayrefine.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/macros.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/macros.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/mcutil.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/mcutil.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/mesh.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/mesh.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/meshpart.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/meshpart.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/metis.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/metis.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/metislib.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/metislib.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/minconn.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/minconn.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/mincover.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/mincover.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/mmd.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/mmd.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/ometis.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/ometis.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/options.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/options.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/parmetis.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/parmetis.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/pmetis.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/pmetis.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/proto.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/proto.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/refine.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/refine.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/rename.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/rename.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/separator.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/separator.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/sfm.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/sfm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/srefine.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/srefine.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/stat.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/stat.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/stdheaders.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/stdheaders.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/struct.h" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/struct.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/timing.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/timing.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/util.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/util.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkx-metis/src/libmetis/wspace.c" beforeDir="false" afterPath="$PROJECT_DIR$/networkx-metis/src/libmetis/wspace.c" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/KWayGraphPartition$RecursivePartitionController.coverage" NAME="RecursivePartitionController Coverage Results" MODIFIED="1531419510761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PartitionController" />
+    <SUITE FILE_PATH="coverage/KWayGraphPartition$GraphEvaluator.coverage" NAME="GraphEvaluator Coverage Results" MODIFIED="1530348156401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/KWayGraphPartition$OSMNXroad_graph.coverage" NAME="OSMNXroad_graph Coverage Results" MODIFIED="1529908008094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/KWayGraphPartition$MainFile.coverage" NAME="MainFile Coverage Results" MODIFIED="1531571542247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MainFile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1935">
+              <caret line="144" column="8" selection-start-line="144" selection-start-column="8" selection-end-line="144" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GraphHandler/RoadGraphController.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="34" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Demo/testPartitioner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="559">
+              <caret line="155" column="30" selection-start-line="155" selection-start-column="30" selection-end-line="155" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+                <marker date="1545290072576" expanded="true" signature="228:229" ph="..." />
+                <marker date="1545290072576" expanded="true" signature="1925:1927" ph="..." />
+                <marker date="1545290072576" expanded="true" signature="3322:4836" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Utils/GraphEvaluator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="67" column="43" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv2/lib/python3.6/site-packages/networkx/classes/reportviews.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2640">
+              <caret line="177" selection-start-line="177" selection-end-line="177" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv2/lib/python3.6/site-packages/networkx/readwrite/graphml.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2745">
+              <caret line="184" column="4" selection-start-line="184" selection-start-column="4" selection-end-line="184" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FileHandler/CSVReader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="44" selection-start-line="44" selection-end-line="60" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GraphHandler/TripGraphController.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1541">
+              <caret line="155" column="39" selection-start-line="155" selection-start-column="39" selection-end-line="155" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/TripData/preprocessed_trips_discretised.csv">
+          <provider selected="true" editor-type-id="LargeFileEditor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Utils/GraphUtils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="64" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>weight</find>
+      <find>trip</find>
+      <find>get('tr</find>
+      <find>get('trip</find>
+      <find>weigh</find>
+      <find>grap</find>
+      <find>'wei</find>
+      <find>set_</find>
+      <find>set</find>
+      <find>print</find>
+      <find>final</find>
+      <find>check</find>
+      <find>meti</find>
+      <find>manhatte</find>
+      <find>remove</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Utils/OSRMUtil.py" />
+        <option value="$PROJECT_DIR$/Utils/BaseNodeMapper.py" />
+        <option value="$PROJECT_DIR$/GraphHandler/RoadGraphController.py" />
+        <option value="$PROJECT_DIR$/PartitionController/NetworkXPartitions.py" />
+        <option value="$PROJECT_DIR$/Utils/VisualizeUtil.py" />
+        <option value="$PROJECT_DIR$/Utils/OSMNXroad_graph.py" />
+        <option value="$PROJECT_DIR$/PartitionController/RecursivePartitionerTest.py" />
+        <option value="$PROJECT_DIR$/Utils/BaseMapMarker.py" />
+        <option value="$PROJECT_DIR$/FileHandler/FileWriter.py" />
+        <option value="$PROJECT_DIR$/PartitionController/KWayPartition.py" />
+        <option value="$PROJECT_DIR$/GraphHandler/GraphMinimizer.py" />
+        <option value="$PROJECT_DIR$/PartitionController/MetisPartitioner.py" />
+        <option value="$PROJECT_DIR$/Utils/CoordinateUtil.py" />
+        <option value="$PROJECT_DIR$/Utils/GraphEvaluator.py" />
+        <option value="$PROJECT_DIR$/Utils/GraphUtils.py" />
+        <option value="$PROJECT_DIR$/GraphHandler/TripGraphController.py" />
+        <option value="$PROJECT_DIR$/Utils/OSMNXutil.py" />
+        <option value="$PROJECT_DIR$/FileHandler/CSVReader.py" />
+        <option value="$PROJECT_DIR$/MainFile.py" />
+        <option value="$PROJECT_DIR$/PartitionController/RecursivePartitionController.py" />
+        <option value="$PROJECT_DIR$/Demo/testPartitioner.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="129" />
+    <option name="y" value="251" />
+    <option name="width" value="1755" />
+    <option name="height" value="644" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="KWayGraphPartition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KWayGraphPartition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KWayGraphPartition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KWayGraphPartition" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KWayGraphPartition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KWayGraphPartition" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="partitions4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KWayGraphPartition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KWayGraphPartition" type="462c0819:PsiDirectoryNode" />
+              <item name="FileHandler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KWayGraphPartition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KWayGraphPartition" type="462c0819:PsiDirectoryNode" />
+              <item name="GraphHandler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KWayGraphPartition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KWayGraphPartition" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/chanaka/FYP/KWayGraphPartition/PartitionController/RecursivePartitionController.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="/media/chanaka/a511c5d9-0c23-47c0-9c8e-2f8d2a61082c/aca/KWayGraphPartition" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportQtDebugging" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.testPartitioner">
+    <configuration name="GraphEvaluator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="KWayGraphPartition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utils/GraphEvaluator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MainFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="KWayGraphPartition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MainFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OSMNXroad_graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="KWayGraphPartition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utils/OSMNXutil.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RecursivePartitionController" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="KWayGraphPartition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PartitionController" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PartitionController/RecursivePartitionController.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testPartitioner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="KWayGraphPartition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo/testPartitioner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.MainFile" />
+      <item itemvalue="Python.OSMNXroad_graph" />
+      <item itemvalue="Python.GraphEvaluator" />
+      <item itemvalue="Python.RecursivePartitionController" />
+      <item itemvalue="Python.testPartitioner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testPartitioner" />
+        <item itemvalue="Python.MainFile" />
+        <item itemvalue="Python.RecursivePartitionController" />
+        <item itemvalue="Python.GraphEvaluator" />
+        <item itemvalue="Python.OSMNXroad_graph" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="551c313c-5608-4766-8933-652f2eea1cd7" name="Default" comment="" />
+      <created>1526571277444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526571277444</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49908593" visible="true" weight="0.09508197" />
+      <window_info id="Structure" order="1" sideWeight="0.5009141" side_tool="true" weight="0.09552078" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32984293" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49703184" weight="0.4010811" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50296813" side_tool="true" weight="0.42116404" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32984293" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3264865" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32910052" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PartitionController/RecursivePartitionController.py</url>
+          <line>311</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GraphHandler/RoadGraphController.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PartitionController/RecursivePartitionController.py</url>
+          <line>323</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Utils/GraphUtils.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PartitionController/RecursivePartitionController.py</url>
+          <line>258</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PartitionController/RecursivePartitionController.py</url>
+          <line>261</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Documents/angmore.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/codecs.py" />
+    <entry file="file://$PROJECT_DIR$/full_degree_hist.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PartitionController/NetworkXPartitions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/networkx/readwrite/graphml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="184" column="4" selection-start-line="184" selection-start-column="4" selection-end-line="184" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/networkx/classes/graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10386">
+          <caret line="587" selection-start-line="587" selection-end-line="587" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/BaseNodeMapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/VisualizeUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/osmnx/plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6345">
+          <caret line="442" column="4" selection-start-line="442" selection-start-column="4" selection-end-line="442" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PartitionController/RecursivePartitionerTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/BaseMapMarker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="31" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileHandler/FileWriter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/OSRMUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OSMNXutil.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv2/lib/python3.6/site-packages/networkx/utils/decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv2/lib/python3.6/site-packages/osmnx/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="434" selection-start-line="434" selection-end-line="434" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv2/lib/python3.6/site-packages/osmnx/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1479" selection-start-line="1479" selection-end-line="1479" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PartitionController/KWayPartition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="83" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/OSMNXutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/CoordinateUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphHandler/GraphMinimizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PartitionController/MetisPartitioner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv2/lib/python3.6/site-packages/networkx/classes/graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6465">
+          <caret line="441" column="8" selection-start-line="441" selection-start-column="8" selection-end-line="441" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv2/lib/python3.6/site-packages/networkx/classes/digraph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11580">
+          <caret line="780" selection-start-line="780" selection-end-line="780" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PartitionController/RecursivePartitionController.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3390">
+          <caret line="228" column="4" selection-start-line="228" selection-start-column="4" selection-end-line="228" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1935">
+          <caret line="144" column="8" selection-start-line="144" selection-start-column="8" selection-end-line="144" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphHandler/RoadGraphController.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv2/lib/python3.6/site-packages/networkx/classes/reportviews.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="177" selection-start-line="177" selection-end-line="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv2/lib/python3.6/site-packages/networkx/readwrite/graphml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2745">
+          <caret line="184" column="4" selection-start-line="184" selection-start-column="4" selection-end-line="184" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileHandler/CSVReader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="44" selection-start-line="44" selection-end-line="60" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/TripData/preprocessed_trips_discretised.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/GraphUtils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="64" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/GraphEvaluator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="67" column="43" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphHandler/TripGraphController.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1541">
+          <caret line="155" column="39" selection-start-line="155" selection-start-column="39" selection-end-line="155" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/testPartitioner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="155" column="30" selection-start-line="155" selection-start-column="30" selection-end-line="155" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+            <marker date="1545290072576" expanded="true" signature="228:229" ph="..." />
+            <marker date="1545290072576" expanded="true" signature="1925:1927" ph="..." />
+            <marker date="1545290072576" expanded="true" signature="3322:4836" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

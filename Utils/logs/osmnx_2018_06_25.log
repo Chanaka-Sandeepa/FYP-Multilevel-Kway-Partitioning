@@ -1,0 +1,71 @@
+2018-06-25 11:30:00,858 INFO osmnx Configured osmnx
+2018-06-25 11:30:00,902 INFO osmnx Pausing 1.00 seconds before making API GET request
+2018-06-25 11:30:01,904 INFO osmnx Requesting https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=colombo.pbf with timeout=30
+2018-06-25 11:30:03,678 INFO osmnx Downloaded 0.0KB from nominatim.openstreetmap.org in 1.77 seconds
+2018-06-25 11:30:03,679 INFO osmnx Saved response to cache file "cache/c9231dd3c92e5f47c4004b76d59b3291.json"
+2018-06-25 11:30:03,680 WARNING osmnx OSM returned no results (or fewer than which_result) for query "colombo.pbf"
+2018-06-25 11:41:40,631 INFO osmnx Configured osmnx
+2018-06-25 11:41:40,703 INFO osmnx Pausing 1.00 seconds before making API GET request
+2018-06-25 11:41:41,705 INFO osmnx Requesting https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=map with timeout=30
+2018-06-25 11:41:43,260 INFO osmnx Downloaded 1.0KB from nominatim.openstreetmap.org in 1.56 seconds
+2018-06-25 11:41:43,261 INFO osmnx Saved response to cache file "cache/4bb573e8db647642189d3b4628788e03.json"
+2018-06-25 11:41:43,302 INFO osmnx Created GeoDataFrame with 1 row for query "map"
+2018-06-25 11:41:43,335 INFO osmnx Constructed place geometry polygon(s) to query API
+2018-06-25 11:41:43,421 INFO osmnx Projected the GeoDataFrame "geometry to project" to UTM-34 in 0.06 seconds
+2018-06-25 11:41:43,436 INFO osmnx Projected the GeoDataFrame "geometry to project" to default_crs in 0.00 seconds
+2018-06-25 11:41:43,445 INFO osmnx Projected the GeoDataFrame "geometry to project" to UTM-34 in 0.00 seconds
+2018-06-25 11:41:43,451 INFO osmnx Projected the GeoDataFrame "geometry to project" to default_crs in 0.00 seconds
+2018-06-25 11:41:43,452 INFO osmnx Requesting network data within polygon from API in 1 request(s)
+2018-06-25 11:41:44,178 INFO osmnx Pausing 0.00 seconds before making API POST request
+2018-06-25 11:41:44,179 INFO osmnx Posting to http://overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["area"!~"yes"]["highway"!~"cycleway|footway|path|pedestrian|steps|track|corridor|proposed|construction|bridleway|abandoned|platform|raceway|service"]["motor_vehicle"!~"no"]["motorcar"!~"no"]["access"!~"private"]["service"!~"parking|parking_aisle|driveway|private|emergency_access"](poly:"50.351462 19.249545 50.351847 19.249625 50.352283 19.249750 50.352709 19.249941 50.353121 19.250197 50.353515 19.250516 50.353887 19.250893 50.354233 19.251326 50.354393 19.251570 50.354473 19.251671 50.354787 19.252163 50.355069 19.252700 50.355316 19.253279 50.355525 19.253892 50.355694 19.254535 50.355821 19.255201 50.355906 19.255883 50.355948 19.256575 50.355945 19.257271 50.355898 19.257962 50.355808 19.258643 50.355676 19.259306 50.355502 19.259946 50.355292 19.260622 50.355245 19.260770 50.355089 19.261246 50.354874 19.261827 50.354626 19.262373 50.354403 19.262775 50.354226 19.263126 50.353911 19.263634 50.353565 19.264090 50.353191 19.264489 50.352794 19.264828 50.352377 19.265102 50.351944 19.265310 50.351500 19.265448 50.351049 19.265516 50.350597 19.265513 50.350147 19.265439 50.349704 19.265294 50.349272 19.265080 50.348856 19.264800 50.348649 19.264640 50.348571 19.264577 50.348459 19.264490 50.348222 19.264281 50.348043 19.264167 50.347777 19.263974 50.347758 19.263960 50.347698 19.263916 50.347502 19.263772 50.347115 19.263452 50.346750 19.263074 50.346410 19.262642 50.346099 19.262161 50.345819 19.261634 50.345573 19.261068 50.345364 19.260467 50.345193 19.259837 50.345062 19.259184 50.344972 19.258514 50.344925 19.257834 50.344920 19.257149 50.344958 19.256467 50.345038 19.255795 50.345159 19.255137 50.345321 19.254501 50.345522 19.253893 50.345759 19.253318 50.346031 19.252782 50.346336 19.252290 50.346669 19.251846 50.346685 19.251827 50.346729 19.251774 50.346948 19.251518 50.347400 19.251052 50.347771 19.250717 50.348212 19.250368 50.348676 19.250097 50.349028 19.249924 50.349356 19.249785 50.349689 19.249685 50.350189 19.249565 50.350612 19.249496 50.351038 19.249489 50.351462 19.249545");>;);out;'}"
+2018-06-25 11:41:44,998 INFO osmnx Downloaded 8.4KB from overpass-api.de in 0.82 seconds
+2018-06-25 11:41:45,001 INFO osmnx Saved response to cache file "cache/bd76798958975a313cbdff46c18fd7a2.json"
+2018-06-25 11:41:45,001 INFO osmnx Got all network data within polygon from API in 1 request(s) and 1.55 seconds
+2018-06-25 11:41:45,002 INFO osmnx Creating networkx graph from downloaded OSM data...
+2018-06-25 11:41:45,004 INFO osmnx Created graph with 61 nodes and 102 edges in 0.00 seconds
+2018-06-25 11:41:45,033 INFO osmnx Added edge lengths to graph in 0.03 seconds
+2018-06-25 11:41:45,034 INFO osmnx Identifying all nodes that lie outside the polygon...
+2018-06-25 11:41:45,087 INFO osmnx Created r-tree spatial index for 61 points in 0.05 seconds
+2018-06-25 11:41:45,117 INFO osmnx Identified 38 nodes inside polygon in 0.03 seconds
+2018-06-25 11:41:45,118 INFO osmnx Removed 23 nodes outside polygon in 0.00 seconds
+2018-06-25 11:41:45,119 INFO osmnx Begin topologically simplifying the graph...
+2018-06-25 11:41:45,120 INFO osmnx Identified 6 edge endpoints in 0.00 seconds
+2018-06-25 11:41:45,120 INFO osmnx Constructed all paths to simplify in 0.00 seconds
+2018-06-25 11:41:45,123 INFO osmnx Simplified graph (from 38 to 6 nodes and from 67 to 4 edges) in 0.00 seconds
+2018-06-25 11:41:45,124 INFO osmnx Identifying all nodes that lie outside the polygon...
+2018-06-25 11:41:45,129 INFO osmnx Created r-tree spatial index for 6 points in 0.00 seconds
+2018-06-25 11:48:22,061 INFO osmnx Configured osmnx
+2018-06-25 11:48:22,067 INFO osmnx Projected the GeoDataFrame "geometry to project" to UTM-44 in 0.00 seconds
+2018-06-25 11:48:22,071 INFO osmnx Projected the GeoDataFrame "geometry to project" to default_crs in 0.00 seconds
+2018-06-25 11:48:22,074 INFO osmnx Projected the GeoDataFrame "geometry to project" to UTM-44 in 0.00 seconds
+2018-06-25 11:48:22,080 INFO osmnx Projected the GeoDataFrame "geometry to project" to default_crs in 0.00 seconds
+2018-06-25 11:48:22,080 INFO osmnx Requesting network data within bounding box from API in 4 request(s)
+2018-06-25 11:48:22,514 INFO osmnx Pausing 0.00 seconds before making API POST request
+2018-06-25 11:48:22,515 INFO osmnx Posting to http://overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["area"!~"yes"]["highway"!~"cycleway|footway|path|pedestrian|steps|track|corridor|proposed|construction|bridleway|abandoned|platform|raceway|service"]["motor_vehicle"!~"no"]["motorcar"!~"no"]["access"!~"private"]["service"!~"parking|parking_aisle|driveway|private|emergency_access"](6.701677,80.018495,6.956783,80.219836);>;);out;'}"
+2018-06-25 11:48:28,118 INFO osmnx Downloaded 7,201.9KB from overpass-api.de in 5.60 seconds
+2018-06-25 11:48:28,451 INFO osmnx Saved response to cache file "cache/39c91ba9be8b855a13ed006d6650cd60.json"
+2018-06-25 11:48:28,863 INFO osmnx Pausing 0.00 seconds before making API POST request
+2018-06-25 11:48:28,864 INFO osmnx Posting to http://overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["area"!~"yes"]["highway"!~"cycleway|footway|path|pedestrian|steps|track|corridor|proposed|construction|bridleway|abandoned|platform|raceway|service"]["motor_vehicle"!~"no"]["motorcar"!~"no"]["access"!~"private"]["service"!~"parking|parking_aisle|driveway|private|emergency_access"](6.701677,79.817372,6.956409,80.019014);>;);out;'}"
+2018-06-25 11:48:40,548 INFO osmnx Downloaded 16,703.4KB from overpass-api.de in 11.68 seconds
+2018-06-25 11:48:41,292 INFO osmnx Saved response to cache file "cache/5e25f1c35e2d15406954fa2188c84624.json"
+2018-06-25 11:48:41,763 INFO osmnx Pausing 0.00 seconds before making API POST request
+2018-06-25 11:48:41,764 INFO osmnx Posting to http://overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["area"!~"yes"]["highway"!~"cycleway|footway|path|pedestrian|steps|track|corridor|proposed|construction|bridleway|abandoned|platform|raceway|service"]["motor_vehicle"!~"no"]["motorcar"!~"no"]["access"!~"private"]["service"!~"parking|parking_aisle|driveway|private|emergency_access"](6.955949,79.817372,7.211067,80.018495);>;);out;'}"
+2018-06-25 11:50:28,700 INFO osmnx Configured osmnx
+2018-06-25 11:50:28,708 INFO osmnx Projected the GeoDataFrame "geometry to project" to UTM-44 in 0.00 seconds
+2018-06-25 11:50:28,712 INFO osmnx Projected the GeoDataFrame "geometry to project" to default_crs in 0.00 seconds
+2018-06-25 11:50:28,715 INFO osmnx Projected the GeoDataFrame "geometry to project" to UTM-44 in 0.00 seconds
+2018-06-25 11:50:28,724 INFO osmnx Projected the GeoDataFrame "geometry to project" to default_crs in 0.00 seconds
+2018-06-25 11:50:28,724 INFO osmnx Requesting network data within bounding box from API in 4 request(s)
+2018-06-25 11:50:28,831 INFO osmnx Retrieved response from cache file "cache/39c91ba9be8b855a13ed006d6650cd60.json" for URL "http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A180%5D%3B%28way%5B%22highway%22%5D%5B%22area%22%21~%22yes%22%5D%5B%22highway%22%21~%22cycleway%7Cfootway%7Cpath%7Cpedestrian%7Csteps%7Ctrack%7Ccorridor%7Cproposed%7Cconstruction%7Cbridleway%7Cabandoned%7Cplatform%7Craceway%7Cservice%22%5D%5B%22motor_vehicle%22%21~%22no%22%5D%5B%22motorcar%22%21~%22no%22%5D%5B%22access%22%21~%22private%22%5D%5B%22service%22%21~%22parking%7Cparking_aisle%7Cdriveway%7Cprivate%7Cemergency_access%22%5D%286.701677%2C80.018495%2C6.956783%2C80.219836%29%3B%3E%3B%29%3Bout%3B"
+2018-06-25 11:50:29,149 INFO osmnx Retrieved response from cache file "cache/5e25f1c35e2d15406954fa2188c84624.json" for URL "http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A180%5D%3B%28way%5B%22highway%22%5D%5B%22area%22%21~%22yes%22%5D%5B%22highway%22%21~%22cycleway%7Cfootway%7Cpath%7Cpedestrian%7Csteps%7Ctrack%7Ccorridor%7Cproposed%7Cconstruction%7Cbridleway%7Cabandoned%7Cplatform%7Craceway%7Cservice%22%5D%5B%22motor_vehicle%22%21~%22no%22%5D%5B%22motorcar%22%21~%22no%22%5D%5B%22access%22%21~%22private%22%5D%5B%22service%22%21~%22parking%7Cparking_aisle%7Cdriveway%7Cprivate%7Cemergency_access%22%5D%286.701677%2C79.817372%2C6.956409%2C80.019014%29%3B%3E%3B%29%3Bout%3B"
+2018-06-25 11:50:29,601 INFO osmnx Pausing 0.00 seconds before making API POST request
+2018-06-25 11:50:29,601 INFO osmnx Posting to http://overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["area"!~"yes"]["highway"!~"cycleway|footway|path|pedestrian|steps|track|corridor|proposed|construction|bridleway|abandoned|platform|raceway|service"]["motor_vehicle"!~"no"]["motorcar"!~"no"]["access"!~"private"]["service"!~"parking|parking_aisle|driveway|private|emergency_access"](6.955949,79.817372,7.211067,80.018495);>;);out;'}"
+2018-06-25 11:50:41,016 INFO osmnx Downloaded 19,042.2KB from overpass-api.de in 11.41 seconds
+2018-06-25 11:50:41,858 INFO osmnx Saved response to cache file "cache/8106ddc95310ef8cd71d4c951f502c76.json"
+2018-06-25 11:50:42,241 INFO osmnx Pausing 0.00 seconds before making API POST request
+2018-06-25 11:50:42,241 INFO osmnx Posting to http://overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["area"!~"yes"]["highway"!~"cycleway|footway|path|pedestrian|steps|track|corridor|proposed|construction|bridleway|abandoned|platform|raceway|service"]["motor_vehicle"!~"no"]["motorcar"!~"no"]["access"!~"private"]["service"!~"parking|parking_aisle|driveway|private|emergency_access"](6.956409,80.017957,7.211067,80.219836);>;);out;'}"
+2018-06-25 11:50:55,195 INFO osmnx Downloaded 6,843.0KB from overpass-api.de in 12.95 seconds
+2018-06-25 11:50:55,487 INFO osmnx Saved response to cache file "cache/8781ff01acd627f514ca3a56cb7fe37b.json"
+2018-06-25 11:50:55,487 INFO osmnx Got all network data within bounding box from API in 4 request(s) and 26.76 seconds
+2018-06-25 11:50:55,487 INFO osmnx Creating networkx graph from downloaded OSM data...
+2018-06-25 11:57:00,280 INFO osmnx Configured osmnx

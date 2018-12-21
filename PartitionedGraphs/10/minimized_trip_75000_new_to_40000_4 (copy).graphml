@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="trips" attr.type="long" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="2066330717" />
+    <node id="2105162033+2105162031" />
+    <node id="2560859825+2066330703+4504963663+2066330705+2560859827+4505529503" />
+    <node id="5510037833" />
+    <node id="5510037827" />
+    <node id="2105395190+2066330718" />
+    <node id="2131864637" />
+    <node id="1985256172+1985256175" />
+    <node id="2105178534+2131864632+973768764" />
+    <node id="1985256181" />
+    <node id="2560859835" />
+    <node id="2135817956+2135817967" />
+    <node id="2135817961+973768762" />
+    <node id="1985256186+618500301" />
+    <node id="1985256184" />
+    <node id="5202849311+652549503" />
+    <node id="3993501850" />
+    <node id="3528725848" />
+    <node id="2066330720+1428449258+2066330706+2560859837+2560859839+3528725849" />
+    <node id="4817223845+2034242896" />
+    <node id="3528725850+4817223851" />
+    <node id="650721754+644608075" />
+    <node id="644610978+403874920" />
+    <node id="5340879533+2034242906+5340879531" />
+    <edge source="2066330717" target="2105162033+2105162031">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="2105162033+2105162031" target="2560859825+2066330703+4504963663+2066330705+2560859827+4505529503">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="2560859825+2066330703+4504963663+2066330705+2560859827+4505529503" target="5510037833">
+      <data key="d0">2054</data>
+    </edge>
+    <edge source="2560859825+2066330703+4504963663+2066330705+2560859827+4505529503" target="2105395190+2066330718">
+      <data key="d0">1994</data>
+    </edge>
+    <edge source="2560859825+2066330703+4504963663+2066330705+2560859827+4505529503" target="1985256186+618500301">
+      <data key="d0">82</data>
+    </edge>
+    <edge source="5510037833" target="5510037827">
+      <data key="d0">0</data>
+    </edge>
+    <edge source="2105395190+2066330718" target="2131864637">
+      <data key="d0">1997</data>
+    </edge>
+    <edge source="2131864637" target="1985256172+1985256175">
+      <data key="d0">55</data>
+    </edge>
+    <edge source="2131864637" target="2105178534+2131864632+973768764">
+      <data key="d0">2026</data>
+    </edge>
+    <edge source="1985256172+1985256175" target="1985256181">
+      <data key="d0">53</data>
+    </edge>
+    <edge source="2105178534+2131864632+973768764" target="1985256181">
+      <data key="d0">993</data>
+    </edge>
+    <edge source="2105178534+2131864632+973768764" target="2560859835">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="2105178534+2131864632+973768764" target="2135817956+2135817967">
+      <data key="d0">1015</data>
+    </edge>
+    <edge source="2105178534+2131864632+973768764" target="2066330720+1428449258+2066330706+2560859837+2560859839+3528725849">
+      <data key="d0">82</data>
+    </edge>
+    <edge source="1985256181" target="1985256186+618500301">
+      <data key="d0">1027</data>
+    </edge>
+    <edge source="2135817956+2135817967" target="2135817961+973768762">
+      <data key="d0">1011</data>
+    </edge>
+    <edge source="2135817961+973768762" target="3528725848">
+      <data key="d0">1007</data>
+    </edge>
+    <edge source="1985256186+618500301" target="1985256184">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="1985256186+618500301" target="5202849311+652549503">
+      <data key="d0">1108</data>
+    </edge>
+    <edge source="5202849311+652549503" target="3993501850">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="3528725848" target="2066330720+1428449258+2066330706+2560859837+2560859839+3528725849">
+      <data key="d0">1189</data>
+    </edge>
+    <edge source="3528725848" target="650721754+644608075">
+      <data key="d0">301</data>
+    </edge>
+    <edge source="2066330720+1428449258+2066330706+2560859837+2560859839+3528725849" target="4817223845+2034242896">
+      <data key="d0">1106</data>
+    </edge>
+    <edge source="2066330720+1428449258+2066330706+2560859837+2560859839+3528725849" target="650721754+644608075">
+      <data key="d0">385</data>
+    </edge>
+    <edge source="2066330720+1428449258+2066330706+2560859837+2560859839+3528725849" target="644610978+403874920">
+      <data key="d0">177</data>
+    </edge>
+    <edge source="4817223845+2034242896" target="3528725850+4817223851">
+      <data key="d0">1107</data>
+    </edge>
+    <edge source="650721754+644608075" target="644610978+403874920">
+      <data key="d0">917</data>
+    </edge>
+    <edge source="644610978+403874920" target="5340879533+2034242906+5340879531">
+      <data key="d0">527</data>
+    </edge>
+  </graph>
+</graphml>
